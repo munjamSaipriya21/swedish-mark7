@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Quando&display=swap');
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid rgb(248, 195, 226);
+}
+body{
+    font-family: 'Quando', serif;
+    
+}
+h1{
+    background-color: #b6a46f;
+    text-align: center;
+}
+div{
+    height: 5vh;
+    width: 90%;
+    text-align: center;
+    background-color: white;
+}
+
+
+#output {
+    border: 1px solid rgb(76, 173, 173);
+    height: 10vh;
+    width: 70%;
+    margin: auto;
+    overflow: scroll;
+
+    padding: 1rem;
+}
+button{
+    text-align: center;
+    width: 100%;
+    margin: a;
+}
+:root {
+    --primary: #ecdeb2;
+    --secondary: #4c75f2;
+    --textColor: #796565;
+}
+body{
+    background-color: var(--textColor);
+    font-family: 'Prociono', serif;
+}
+header div {
+    padding: 0.5rem;
+}
+footer {
+    background-color: var(--primary);
+    text-align: center;
+    padding: 0rem;
+    width: 100%;
+}
+#btn-translate {
+    background-color: var(--primary);
+    color: var(--textColor);
+    padding: 1rem;
+    min-width: 140px;
+    border: 0rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: large;
+    cursor: pointer;
+}
+
